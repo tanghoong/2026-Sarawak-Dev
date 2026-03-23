@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "主页",
+    "about": "关于我们",
+    "vibeCoding": "Vibe Coding",
+    "ambassadors": "大使",
+    "partners": "合作伙伴",
+    "showcase": "展示",
+    "join": "加入"
+  },
+  "home": {
+    "hero": {
+      "badge": "建设者社区平台",
+      "title": "建造。学习。\n共同成长。",
+      "subtitle": "Sarawak.Dev 是一个社区驱动的平台，帮助砂拉越及更广泛地区的人们通过技术、AI 和创意编程发现建造的乐趣。",
+      "cta": "加入社区",
+      "ctaSecondary": "探索 Vibe Coding"
+    },
+    "mission": {
+      "title": "为什么选择 Sarawak.Dev？",
+      "description": "我们通过提供清晰的起点、支持性的学习社区，以及从学习者到建造者的可见路径，降低人们进入技术、AI 辅助创作和数字建造的门槛。",
+      "points": ["清晰的起点", "支持性社区", "真实项目成果", "本地生态系统"]
+    },
+    "vibeCoding": {
+      "badge": "特色项目",
+      "title": "Vibe Coding",
+      "description": "您进入 AI 建造的第一步。Vibe Coding 是一个入门级项目，旨在帮助初学者快速体验构建真实事物的乐趣。",
+      "cta": "了解更多",
+      "features": ["AI 辅助建造", "真实项目输出", "社区支持", "无需先前经验"]
+    },
+    "howToJoin": {
+      "title": "如何加入",
+      "steps": [
+        { "number": "01", "title": "发现", "description": "了解 Sarawak.Dev 并在社区中找到您的位置。" },
+        { "number": "02", "title": "加入", "description": "注册并连接我们的社区频道。" },
+        { "number": "03", "title": "建造", "description": "进入 Vibe Coding，创建您的第一个真实项目。" }
+      ]
+    },
+    "cohort": {
+      "badge": "下一期学员",
+      "title": "Vibe Coding — 第一批",
+      "description": "加入我们的第一期 Vibe Coding 学员，在 AI 的帮助下建造您的第一个项目。",
+      "cta": "立即报名"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "关于我们",
+      "title": "建设砂拉越建造者社区",
+      "subtitle": "Sarawak.Dev 的存在是为了降低门槛，为每个人创造参与数字创作的路径。"
+    },
+    "vision": {
+      "title": "愿景",
+      "description": "通过使学生、初学者、专业人士和本地社区能够学习现代数字技能、创建真实项目并通过合作成长，成为砂拉越领先的建造者社区平台。"
+    },
+    "mission": {
+      "title": "使命",
+      "description": "Sarawak.Dev 的存在是为了降低人们进入技术、AI 辅助创作和数字建造的门槛，提供清晰的起点、支持性的学习社区、可见的项目成果、从学习者到建造者的路径，以及鼓励贡献、合作和长期发展的本地生态系统。"
+    },
+    "whyMatters": {
+      "title": "Sarawak.Dev 为什么重要",
+      "problems": [
+        "很多人不知道从哪里开始学习编程或技术",
+        "编程常常感觉太难或太技术性",
+        "缺乏感觉相关且友好的本地社区",
+        "大多数人消费内容但从不构建真实项目",
+        "现有社区可能感觉分散或与本地文化脱节"
+      ]
+    },
+    "whoFor": {
+      "title": "适合谁",
+      "groups": [
+        { "title": "学生", "description": "寻找技能、作品集工作和社区的大学和学院学生。" },
+        { "title": "初学者", "description": "对编程或 AI 工具陌生，需要简单且有激励性的第一步。" },
+        { "title": "职业转换者", "description": "有兴趣进入数字工作并希望获得实践经验。" },
+        { "title": "建造者", "description": "寻求合作和本地影响的开发人员、设计师和创作者。" }
+      ]
+    }
+  },
+  "vibeCoding": {
+    "hero": {
+      "badge": "旗舰项目",
+      "title": "Vibe Coding",
+      "subtitle": "您的建造者入门体验。不只是学习编程——学习建造、创作和分享真实的东西。"
+    },
+    "whatIs": {
+      "title": "什么是 Vibe Coding？",
+      "description": "Vibe Coding 是每个新 Sarawak.Dev 成员都应该加入的第一个体验。它的设计目的是让技术感觉平易近人、富有创意和赋权。它不是一门深度技术课程——它是一个建造者入门体验。"
+    },
+    "outcomes": {
+      "title": "您将实现什么",
+      "items": [
+        "理解 AI 辅助建造的基础",
+        "创建一个小但有效的数字项目",
+        "描述和展示您构建的内容",
+        "与社区分享您的作品",
+        "感受到继续建造的动力"
+      ]
+    },
+    "modules": {
+      "title": "项目模块",
+      "items": [
+        { "number": "01", "title": "介绍", "description": "什么是 Vibe Coding，什么是 AI 辅助创作，以及为什么建造比消费更重要。" },
+        { "number": "02", "title": "第一次建造", "description": "选择一个简单的项目，使用提示或模板生成起点，并预览您的输出。" },
+        { "number": "03", "title": "改进与个性化", "description": "更改布局、内容、风格或交互。学习基本迭代习惯。" },
+        { "number": "04", "title": "发布与分享", "description": "展示您的项目，解释您构建的内容，并与社区分享。" }
+      ]
+    },
+    "projects": {
+      "title": "您可以构建的示例项目",
+      "items": [
+        "个人介绍页面",
+        "迷你作品集页面",
+        "落地页概念",
+        "简单互动网络玩具",
+        "待办事项列表原型",
+        "AI 辅助内容页面"
+      ]
+    },
+    "cta": {
+      "title": "准备好开始建造了吗？",
+      "description": "加入下一期 Vibe Coding 学员，体验建造真实事物的乐趣。",
+      "button": "报名参加 Vibe Coding"
+    }
+  },
+  "ambassadors": {
+    "hero": {
+      "badge": "大使项目",
+      "title": "成为大使",
+      "subtitle": "帮助传播 Sarawak.Dev，将您的社区与建造者生态系统连接起来。"
+    },
+    "why": {
+      "title": "为什么大使很重要",
+      "description": "大使系统使 Sarawak.Dev 更容易在不同群体中传播、本地化和激活。大使是分布式推广者和连接者，代表他们的校园、社区或领域。"
+    },
+    "types": {
+      "title": "大使类型",
+      "items": [
+        { "title": "创始大使", "description": "早期信徒，帮助从头开始建立 Sarawak.Dev。" },
+        { "title": "校园大使", "description": "在您的大学或学院代表 Sarawak.Dev。" },
+        { "title": "合作社区大使", "description": "将您的社区与 Sarawak.Dev 的网络连接起来。" },
+        { "title": "项目大使", "description": "倡导 Vibe Coding 等特定项目。" },
+        { "title": "地区大使", "description": "代表特定地理区域或地区。" }
+      ]
+    },
+    "responsibilities": {
+      "title": "职责",
+      "items": [
+        "推广 Sarawak.Dev 和 Vibe Coding",
+        "邀请新成员加入社区",
+        "帮助协调当地分享会或外展活动",
+        "收集网络反馈",
+        "支持友好的环境"
+      ]
+    },
+    "benefits": {
+      "title": "您将获得什么",
+      "items": [
+        "公开个人资料认可",
+        "社区徽章和身份",
+        "优先参与活动",
+        "社交机会",
+        "成为导师或组织者的路径"
+      ]
+    },
+    "cta": {
+      "title": "准备好领导了吗？",
+      "description": "申请成为 Sarawak.Dev 大使，帮助建设社区。",
+      "button": "申请成为大使"
+    }
+  },
+  "partners": {
+    "hero": {
+      "badge": "合作伙伴与社区",
+      "title": "与我们合作",
+      "subtitle": "Sarawak.Dev 不与其他社区竞争。我们正在建设一个协作网络。"
+    },
+    "principles": {
+      "title": "合作原则",
+      "items": [
+        "尊重合作伙伴的身份和独立性",
+        "允许联合品牌和共同知名度",
+        "鼓励共同活动和会议",
+        "在社区之间建立桥梁",
+        "创造双赢参与机会"
+      ]
+    },
+    "formats": {
+      "title": "我们如何合作",
+      "items": [
+        { "title": "共同举办 Vibe Coding", "description": "与您的社区共同运行 Vibe Coding 介绍会议。" },
+        { "title": "联合工作坊", "description": "在学生或社区工作坊上合作。" },
+        { "title": "跨社区邀请", "description": "交换成员，互相扩大网络。" },
+        { "title": "大使交流", "description": "共享代表以深化合作。" },
+        { "title": "展示合作", "description": "展示合作社区的项目和亮点。" },
+        { "title": "社区聚焦", "description": "向 Sarawak.Dev 受众突出您的社区。" }
+      ]
+    },
+    "offer": {
+      "title": "Sarawak.Dev 为合作伙伴提供什么",
+      "items": [
+        "具有共同知名度的联合主办机会",
+        "在不失去身份的情况下合作的平台",
+        "人才发现和社区参与",
+        "访问 Vibe Coding 资源和项目",
+        "联合推广和共享受众覆盖"
+      ]
+    },
+    "cta": {
+      "title": "让我们共同建造",
+      "description": "联系我们，探索您的社区或组织如何与 Sarawak.Dev 合作。",
+      "button": "联系我们"
+    }
+  },
+  "showcase": {
+    "hero": {
+      "badge": "展示",
+      "title": "社区作品",
+      "subtitle": "查看 Sarawak.Dev 成员正在建造、学习和分享的内容。"
+    },
+    "featured": {
+      "title": "特色项目",
+      "empty": "来自我们第一期 Vibe Coding 学员的项目将在这里显示。成为第一个建造者！"
+    },
+    "highlights": {
+      "title": "社区亮点",
+      "empty": "社区亮点和活动故事即将在这里出现。"
+    },
+    "cta": {
+      "title": "分享您的作品",
+      "description": "完成 Vibe Coding 并与社区分享您的项目。",
+      "button": "加入 Vibe Coding"
+    }
+  },
+  "join": {
+    "hero": {
+      "badge": "开始",
+      "title": "加入 Sarawak.Dev",
+      "subtitle": "选择您的路径，成为砂拉越建造者社区的一部分。"
+    },
+    "options": [
+      { "title": "加入社区", "description": "在我们的频道上与 Sarawak.Dev 社区联系，开始与建造者建立网络。", "cta": "加入社区", "type": "primary" },
+      { "title": "报名参加 Vibe Coding", "description": "报名参加下一期 Vibe Coding 学员，在 AI 的帮助下建造您的第一个项目。", "cta": "立即报名", "type": "featured" },
+      { "title": "申请成为大使", "description": "成为 Sarawak.Dev 大使，帮助在您的校园或社区传播使命。", "cta": "立即申请", "type": "secondary" },
+      { "title": "与我们合作", "description": "以学生团体、技术社区或组织的身份与 Sarawak.Dev 合作。", "cta": "联系我们", "type": "secondary" }
+    ]
+  },
+  "footer": {
+    "tagline": "共同建设砂拉越的数字未来。",
+    "platform": "平台",
+    "community": "社区",
+    "connect": "联系",
+    "copyright": "© 2026 Sarawak.Dev. 社区驱动。"
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "joinNow": "立即加入",
+    "applyNow": "立即申请",
+    "getInTouch": "联系我们",
+    "registerNow": "立即报名",
+    "backHome": "返回主页",
+    "language": "语言",
+    "theme": "主题",
+    "lightMode": "浅色",
+    "darkMode": "深色"
+  }
+}

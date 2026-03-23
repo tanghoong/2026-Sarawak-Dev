@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Laman Utama",
+    "about": "Tentang Kami",
+    "vibeCoding": "Vibe Coding",
+    "ambassadors": "Duta",
+    "partners": "Rakan Kongsi",
+    "showcase": "Paparan",
+    "join": "Sertai"
+  },
+  "home": {
+    "hero": {
+      "badge": "Platform Komuniti Pembangun",
+      "title": "Bina. Belajar.\nBerkembang Bersama.",
+      "subtitle": "Sarawak.Dev adalah platform komuniti yang membantu orang ramai di Sarawak dan luar negara menemui kegembiraan membina dengan teknologi, AI, dan pengkodan kreatif.",
+      "cta": "Sertai Komuniti",
+      "ctaSecondary": "Terokai Vibe Coding"
+    },
+    "mission": {
+      "title": "Mengapa Sarawak.Dev?",
+      "description": "Kami menurunkan halangan untuk orang ramai memasuki teknologi, penciptaan berbantuan AI, dan pembinaan digital dengan menyediakan titik permulaan yang jelas, komuniti pembelajaran yang menyokong, dan laluan yang jelas dari pelajar ke pembina.",
+      "points": ["Titik permulaan yang jelas", "Komuniti yang menyokong", "Hasil projek nyata", "Ekosistem tempatan"]
+    },
+    "vibeCoding": {
+      "badge": "Program Utama",
+      "title": "Vibe Coding",
+      "description": "Langkah pertama anda ke dalam pembinaan dengan AI. Vibe Coding adalah program peringkat permulaan yang direka untuk membantu pemula merasai kegembiraan membina sesuatu yang nyata.",
+      "cta": "Ketahui Lebih Lanjut",
+      "features": ["Pembinaan berbantuan AI", "Output projek sebenar", "Sokongan komuniti", "Tiada pengalaman diperlukan"]
+    },
+    "howToJoin": {
+      "title": "Cara Menyertai",
+      "steps": [
+        { "number": "01", "title": "Temui", "description": "Ketahui tentang Sarawak.Dev dan cari tempat anda dalam komuniti." },
+        { "number": "02", "title": "Sertai", "description": "Daftar dan berhubung dengan saluran komuniti kami." },
+        { "number": "03", "title": "Bina", "description": "Masuki Vibe Coding dan cipta projek pertama anda." }
+      ]
+    },
+    "cohort": {
+      "badge": "Kohort Seterusnya",
+      "title": "Vibe Coding — Kumpulan Pertama",
+      "description": "Sertai kohort Vibe Coding pertama kami dan bina projek pertama anda dengan bantuan AI.",
+      "cta": "Daftar Sekarang"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "Tentang Kami",
+      "title": "Membina Komuniti Pembangun Sarawak",
+      "subtitle": "Sarawak.Dev wujud untuk menurunkan halangan dan mewujudkan laluan bagi semua orang untuk mengambil bahagian dalam penciptaan digital."
+    },
+    "vision": {
+      "title": "Visi",
+      "description": "Menjadi platform komuniti pembangun terkemuka untuk Sarawak dengan membolehkan pelajar, pemula, profesional, dan komuniti tempatan mempelajari kemahiran digital moden, mencipta projek nyata, dan berkembang melalui kerjasama."
+    },
+    "mission": {
+      "title": "Misi",
+      "description": "Sarawak.Dev wujud untuk menurunkan halangan bagi orang ramai memasuki teknologi, penciptaan berbantuan AI, dan pembinaan digital dengan menyediakan titik permulaan yang jelas, komuniti pembelajaran yang menyokong, hasil projek yang kelihatan, laluan dari pelajar ke pembina, dan ekosistem tempatan yang menggalakkan sumbangan, kerjasama, dan pertumbuhan jangka panjang."
+    },
+    "whyMatters": {
+      "title": "Mengapa Sarawak.Dev Penting",
+      "problems": [
+        "Ramai orang tidak tahu dari mana hendak memulakan pengkodan atau teknologi",
+        "Pengkodan sering terasa terlalu sukar atau terlalu teknikal",
+        "Kurang komuniti tempatan yang terasa relevan dan mesra",
+        "Kebanyakan orang hanya menggunakan kandungan tetapi tidak pernah membina projek sebenar",
+        "Komuniti sedia ada boleh terasa berpecah-pecah atau terputus dari budaya tempatan"
+      ]
+    },
+    "whoFor": {
+      "title": "Untuk Siapa",
+      "groups": [
+        { "title": "Pelajar", "description": "Pelajar universiti dan kolej yang mencari kemahiran, kerja portfolio, dan komuniti." },
+        { "title": "Pemula", "description": "Baru kepada pengkodan atau alat AI dan memerlukan langkah pertama yang mudah dan memberi motivasi." },
+        { "title": "Penukaran Kerjaya", "description": "Berminat untuk memasuki kerja digital dan mahukan pendedahan praktikal." },
+        { "title": "Pembina", "description": "Pembangun, pereka, dan pencipta yang mencari kerjasama dan impak tempatan." }
+      ]
+    }
+  },
+  "vibeCoding": {
+    "hero": {
+      "badge": "Program Utama",
+      "title": "Vibe Coding",
+      "subtitle": "Pengalaman kemasukan pembina anda. Bukan sekadar belajar mengekod — belajar membina, mencipta, dan berkongsi sesuatu yang nyata."
+    },
+    "whatIs": {
+      "title": "Apa itu Vibe Coding?",
+      "description": "Vibe Coding adalah pengalaman pertama yang setiap ahli Sarawak.Dev baharu harus sertai. Ia direka untuk menjadikan teknologi terasa mudah didekati, kreatif, dan memberdayakan."
+    },
+    "outcomes": {
+      "title": "Apa Yang Akan Anda Capai",
+      "items": [
+        "Faham asas pembinaan berbantuan AI",
+        "Cipta projek digital yang kecil tetapi berfungsi",
+        "Huraikan dan bentangkan apa yang anda bina",
+        "Kongsi karya anda dengan komuniti",
+        "Rasa bermotivasi untuk terus membina"
+      ]
+    },
+    "modules": {
+      "title": "Modul Program",
+      "items": [
+        { "number": "01", "title": "Pengenalan", "description": "Apa itu Vibe Coding, apa itu penciptaan berbantuan AI, dan mengapa membina lebih penting daripada sekadar menggunakan." },
+        { "number": "02", "title": "Bina Pertama", "description": "Pilih projek mudah, gunakan prompts atau templat untuk menjana titik permulaan, dan pratonton output anda." },
+        { "number": "03", "title": "Perbaiki & Peribadikan", "description": "Tukar reka letak, kandungan, gaya, atau interaksi. Pelajari tabiat lelaran asas." },
+        { "number": "04", "title": "Terbit & Kongsi", "description": "Bentangkan projek anda, terangkan apa yang anda bina, dan kongsikannya dengan komuniti." }
+      ]
+    },
+    "projects": {
+      "title": "Contoh Projek Yang Boleh Anda Bina",
+      "items": [
+        "Halaman pengenalan peribadi",
+        "Halaman portfolio mini",
+        "Konsep halaman pendaratan",
+        "Mainan web interaktif mudah",
+        "Prototaip senarai tugasan",
+        "Halaman kandungan berbantuan AI"
+      ]
+    },
+    "cta": {
+      "title": "Bersedia Untuk Mula Membina?",
+      "description": "Sertai kohort Vibe Coding seterusnya dan rasai kegembiraan membina sesuatu yang nyata.",
+      "button": "Daftar untuk Vibe Coding"
+    }
+  },
+  "ambassadors": {
+    "hero": {
+      "badge": "Program Duta",
+      "title": "Jadi Duta",
+      "subtitle": "Bantu menyebarkan Sarawak.Dev dan hubungkan komuniti anda dengan ekosistem pembina."
+    },
+    "why": {
+      "title": "Mengapa Duta Penting",
+      "description": "Sistem duta menjadikan Sarawak.Dev lebih mudah tersebar, dilokalisasikan, dan diaktifkan di pelbagai kumpulan."
+    },
+    "types": {
+      "title": "Jenis Duta",
+      "items": [
+        { "title": "Duta Pengasas", "description": "Percaya awal yang membantu menubuhkan Sarawak.Dev dari bawah." },
+        { "title": "Duta Kampus", "description": "Wakili Sarawak.Dev di universiti atau kolej anda." },
+        { "title": "Duta Komuniti Rakan", "description": "Jambatan komuniti anda dengan rangkaian Sarawak.Dev." },
+        { "title": "Duta Projek", "description": "Juara program tertentu seperti Vibe Coding." },
+        { "title": "Duta Serantau", "description": "Wakili kawasan geografi atau rantau tertentu." }
+      ]
+    },
+    "responsibilities": {
+      "title": "Tanggungjawab",
+      "items": [
+        "Promosikan Sarawak.Dev dan Vibe Coding",
+        "Jemput ahli baharu ke komuniti",
+        "Bantu mengkoordinasi sesi perkongsian tempatan",
+        "Kumpulkan maklum balas dari rangkaian anda",
+        "Sokong persekitaran yang mesra"
+      ]
+    },
+    "benefits": {
+      "title": "Apa Yang Anda Perolehi",
+      "items": [
+        "Pengiktirafan profil awam",
+        "Lencana dan identiti komuniti",
+        "Akses keutamaan kepada aktiviti",
+        "Peluang rangkaian",
+        "Laluan ke peranan mentor atau penganjur"
+      ]
+    },
+    "cta": {
+      "title": "Bersedia Untuk Memimpin?",
+      "description": "Mohon untuk menjadi duta Sarawak.Dev dan bantu membina komuniti.",
+      "button": "Mohon Sebagai Duta"
+    }
+  },
+  "partners": {
+    "hero": {
+      "badge": "Rakan Kongsi & Komuniti",
+      "title": "Bekerjasama Dengan Kami",
+      "subtitle": "Sarawak.Dev tidak bersaing dengan komuniti lain. Kami membina rangkaian kolaboratif."
+    },
+    "principles": {
+      "title": "Prinsip Kerjasama",
+      "items": [
+        "Hormati identiti dan kebebasan rakan kongsi",
+        "Benarkan co-branding dan keterlihatan bersama",
+        "Galakkan acara dan sesi bersama",
+        "Bina jambatan antara komuniti",
+        "Wujudkan peluang penyertaan menang-menang"
+      ]
+    },
+    "formats": {
+      "title": "Cara Kami Bekerjasama",
+      "items": [
+        { "title": "Vibe Coding Bersama", "description": "Jalankan sesi pengenalan Vibe Coding bersama komuniti anda." },
+        { "title": "Bengkel Bersama", "description": "Bekerjasama dalam bengkel pelajar atau komuniti." },
+        { "title": "Jemputan Silang Komuniti", "description": "Tukar ahli dan kembangkan rangkaian masing-masing." },
+        { "title": "Pertukaran Duta", "description": "Kongsi wakil untuk memperdalam kerjasama." },
+        { "title": "Kerjasama Paparan", "description": "Paparkan projek dan sorotan komuniti rakan." },
+        { "title": "Sorotan Komuniti", "description": "Tonjolkan komuniti anda kepada audiens Sarawak.Dev." }
+      ]
+    },
+    "offer": {
+      "title": "Apa Yang Sarawak.Dev Tawarkan Rakan Kongsi",
+      "items": [
+        "Peluang ko-penganjuran dengan keterlihatan bersama",
+        "Platform untuk bekerjasama tanpa kehilangan identiti anda",
+        "Penemuan bakat dan penglibatan komuniti",
+        "Akses kepada sumber dan program Vibe Coding",
+        "Promosi bersama dan jangkauan audiens bersama"
+      ]
+    },
+    "cta": {
+      "title": "Mari Bina Bersama",
+      "description": "Hubungi kami untuk meneroka bagaimana komuniti atau organisasi anda boleh bekerjasama dengan Sarawak.Dev.",
+      "button": "Hubungi Kami"
+    }
+  },
+  "showcase": {
+    "hero": {
+      "badge": "Paparan",
+      "title": "Bina Komuniti",
+      "subtitle": "Lihat apa yang sedang dibina, dipelajari, dan dikongsi oleh ahli Sarawak.Dev."
+    },
+    "featured": {
+      "title": "Projek Unggulan",
+      "empty": "Projek dari kohort Vibe Coding pertama kami akan muncul di sini. Jadilah yang pertama untuk membina!"
+    },
+    "highlights": {
+      "title": "Sorotan Komuniti",
+      "empty": "Sorotan komuniti dan cerita acara akan muncul di sini tidak lama lagi."
+    },
+    "cta": {
+      "title": "Kongsi Bina Anda",
+      "description": "Lengkapkan Vibe Coding dan kongsi projek anda dengan komuniti.",
+      "button": "Sertai Vibe Coding"
+    }
+  },
+  "join": {
+    "hero": {
+      "badge": "Mulakan",
+      "title": "Sertai Sarawak.Dev",
+      "subtitle": "Pilih laluan anda dan jadi sebahagian dari komuniti pembina Sarawak."
+    },
+    "options": [
+      { "title": "Sertai Komuniti", "description": "Berhubung dengan komuniti Sarawak.Dev di saluran kami dan mula berjejaring dengan pembina.", "cta": "Sertai Komuniti", "type": "primary" },
+      { "title": "Daftar untuk Vibe Coding", "description": "Daftar untuk kohort Vibe Coding seterusnya dan bina projek pertama anda dengan bantuan AI.", "cta": "Daftar Sekarang", "type": "featured" },
+      { "title": "Mohon Sebagai Duta", "description": "Jadilah duta Sarawak.Dev dan bantu menyebarkan misi di kampus atau komuniti anda.", "cta": "Mohon Sekarang", "type": "secondary" },
+      { "title": "Rakan Kongsi Dengan Kami", "description": "Bekerjasama dengan Sarawak.Dev sebagai badan pelajar, komuniti teknologi, atau organisasi.", "cta": "Hubungi Kami", "type": "secondary" }
+    ]
+  },
+  "footer": {
+    "tagline": "Membina masa depan digital Sarawak, bersama-sama.",
+    "platform": "Platform",
+    "community": "Komuniti",
+    "connect": "Hubungi",
+    "copyright": "© 2026 Sarawak.Dev. Dikuasakan komuniti."
+  },
+  "common": {
+    "learnMore": "Ketahui Lebih Lanjut",
+    "joinNow": "Sertai Sekarang",
+    "applyNow": "Mohon Sekarang",
+    "getInTouch": "Hubungi Kami",
+    "registerNow": "Daftar Sekarang",
+    "backHome": "Kembali ke Laman Utama",
+    "language": "Bahasa",
+    "theme": "Tema",
+    "lightMode": "Cerah",
+    "darkMode": "Gelap"
+  }
+}
