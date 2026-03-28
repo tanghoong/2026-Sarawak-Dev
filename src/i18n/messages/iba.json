@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Laman Pengawa",
+    "about": "Pasal Kitai",
+    "vibeCoding": "Vibe Coding",
+    "ambassadors": "Wakil",
+    "partners": "Rakan",
+    "showcase": "Paparan",
+    "join": "Beserumah"
+  },
+  "home": {
+    "hero": {
+      "badge": "Platform Komuniti Pembangun",
+      "title": "Ngempa. Belajar.\nMansang Besama.",
+      "subtitle": "Sarawak.Dev iya komuniti platform ti nulong orang di Sarawak enggau ditu ba sekeda baru manah nemu nguji suka ngempa enggau teknologi, AI, enggau coding.",
+      "cta": "Beserumah Enggau Komuniti",
+      "ctaSecondary": "Keligi Vibe Coding"
+    },
+    "mission": {
+      "title": "Nama Utai Sarawak.Dev?",
+      "description": "Kitai ngemeranka jalan bagi orang memasuki teknologi enggau AI, ngiga titik pemula ti chelap, komuniti belajar ti nulong, enggau jalan ari murid ke pembangun.",
+      "points": ["Titik pemula ti chelap", "Komuniti ti nulong", "Hasil projek ti deka", "Ekosistem tempatan"]
+    },
+    "vibeCoding": {
+      "badge": "Program Utama",
+      "title": "Vibe Coding",
+      "description": "Langkah pertama nuan ngena AI. Vibe Coding iya program permulaan ti direka nulong orang baru ngerasai suka ngempa utai ti deka.",
+      "cta": "Nemu Lebih Jauh",
+      "features": ["Ngempa enggau AI", "Hasil projek nyata", "Sokongan komuniti", "Enda perlu pengalaman"]
+    },
+    "howToJoin": {
+      "title": "Kemaya Beserumah",
+      "steps": [
+        { "number": "01", "title": "Keligi", "description": "Nemu pasal Sarawak.Dev enggau ngiga diri nuan dalam komuniti." },
+        { "number": "02", "title": "Beserumah", "description": "Daftar enggau berhubung enggau saluran komuniti kitai." },
+        { "number": "03", "title": "Ngempa", "description": "Memasuki Vibe Coding enggau ngempa projek pertama nuan." }
+      ]
+    },
+    "cohort": {
+      "badge": "Kohort Penganya",
+      "title": "Vibe Coding — Kumpulan Pertama",
+      "description": "Beserumah enggau kohort Vibe Coding pertama kitai enggau ngempa projek pertama nuan enggau nulong AI.",
+      "cta": "Daftar Kin"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "Pasal Kitai",
+      "title": "Ngempa Komuniti Pembangun Sarawak",
+      "subtitle": "Sarawak.Dev idup ngemeranka jalan bagi semua orang memasuki penciptaan digital."
+    },
+    "vision": {
+      "title": "Penemu",
+      "description": "Menjadi platform komuniti pembangun utama Sarawak enggau nulong murid, orang baru, profesional, enggau komuniti tempatan belajar kemahiran digital moden."
+    },
+    "mission": {
+      "title": "Pesan",
+      "description": "Sarawak.Dev idup ngemeranka jalan bagi orang memasuki teknologi, AI, enggau ngempa digital enggau nyediaka titik pemula ti chelap, komuniti belajar ti nulong, enggau jalan ari murid ke pembangun."
+    },
+    "whyMatters": {
+      "title": "Nama Utai Sarawak.Dev Penting",
+      "problems": [
+        "Mayuh orang enda nemu ari dini mulai enggau coding",
+        "Coding ngasoh payah",
+        "Kurang komuniti tempatan ti releven",
+        "Mayuh orang ngena kandungan aja lalu enda ngempa projek",
+        "Komuniti sedia ada kala payah dimasuki"
+      ]
+    },
+    "whoFor": {
+      "title": "Bagi Sapa",
+      "groups": [
+        { "title": "Murid", "description": "Murid universiti enggau kolej ti ngiga kemahiran, portfolio, enggau komuniti." },
+        { "title": "Orang Baru", "description": "Baru ngena coding atau AI enggau perlu langkah pertama ti chelap." },
+        { "title": "Orang Ti Ngaga Kerja Baru", "description": "Ninggalkan ngena kerja digital enggau ngiga pendedahan praktikal." },
+        { "title": "Pembangun", "description": "Developer, designer, enggau pencipta ti ngiga kerjasama enggau impak tempatan." }
+      ]
+    }
+  },
+  "vibeCoding": {
+    "hero": {
+      "badge": "Program Utama",
+      "title": "Vibe Coding",
+      "subtitle": "Pengalaman kemasukan pembangun nuan. Bukan aja belajar coding — belajar ngempa, ngecipta, enggau bekongsi utai ti deka."
+    },
+    "whatIs": {
+      "title": "Nama Utai Vibe Coding?",
+      "description": "Vibe Coding iya pengalaman pertama ti patut diserumah semua ahli Sarawak.Dev baru. Iya direka maka teknologi ngasoh chelap didekati, kreatif, enggau memberdayakan."
+    },
+    "outcomes": {
+      "title": "Utai Ti Deka Nuan Capai",
+      "items": [
+        "Nemu asas AI-assisted building",
+        "Ngempa projek digital kecil lalu bekereja",
+        "Madah enggau bentang utai ti nuan ngempa",
+        "Bekongsi karya nuan enggau komuniti",
+        "Rasa semangat mansang"
+      ]
+    },
+    "modules": {
+      "title": "Modul Program",
+      "items": [
+        { "number": "01", "title": "Pengenalan", "description": "Nama utai Vibe Coding, nama utai AI-assisted creation, enggau nama utai ngempa penting." },
+        { "number": "02", "title": "Ngempa Pertama", "description": "Pilih projek chelap, ngena prompts atau templat, enggau keligi output nuan." },
+        { "number": "03", "title": "Manah & Peribadi", "description": "Tukar layout, kandungan, gaya, atau interaksi. Belajar tabiat iteration asas." },
+        { "number": "04", "title": "Terbit & Bekongsi", "description": "Bentang projek nuan, madah utai ti nuan ngempa, enggau bekongsi enggau komuniti." }
+      ]
+    },
+    "projects": {
+      "title": "Contoh Projek Ti Deka Nuan Ngempa",
+      "items": [
+        "Laman pengenalan peribadi",
+        "Laman portfolio mini",
+        "Konsep landing page",
+        "Web toy interaktif chelap",
+        "Prototaip to-do list",
+        "Laman kandungan AI"
+      ]
+    },
+    "cta": {
+      "title": "Sedia Mulai Ngempa?",
+      "description": "Beserumah enggau kohort Vibe Coding seterusnya enggau ngerasai suka ngempa utai ti deka.",
+      "button": "Daftar bagi Vibe Coding"
+    }
+  },
+  "ambassadors": {
+    "hero": {
+      "badge": "Program Wakil",
+      "title": "Jadi Wakil",
+      "subtitle": "Nulong menyebar Sarawak.Dev enggau berhubung komuniti nuan enggau ekosistem pembangun."
+    },
+    "why": {
+      "title": "Nama Utai Wakil Penting",
+      "description": "Sistem wakil ngulik Sarawak.Dev lebih chelap menyebar, dilokalisasikan, enggau diaktifkan di mayuh kumpulan."
+    },
+    "types": {
+      "title": "Jenis Wakil",
+      "items": [
+        { "title": "Wakil Pengasas", "description": "Orang ti percaya semula ti nulong nutuhkan Sarawak.Dev ari bawah." },
+        { "title": "Wakil Kampus", "description": "Wakili Sarawak.Dev di universiti atau kolej nuan." },
+        { "title": "Wakil Komuniti Rakan", "description": "Jambatan komuniti nuan enggau rangkaian Sarawak.Dev." },
+        { "title": "Wakil Projek", "description": "Juara program-program tertentu baka Vibe Coding." },
+        { "title": "Wakil Kawasan", "description": "Wakili kawasan geografi atau rantau tertentu." }
+      ]
+    },
+    "responsibilities": {
+      "title": "Tanggung Jawab",
+      "items": [
+        "Promosi Sarawak.Dev enggau Vibe Coding",
+        "Ngundang ahli baru ke komuniti",
+        "Nulong koordinasi sesi perkongsian tempatan",
+        "Ngumpul maklum balas ari rangkaian nuan",
+        "Nulong persekitaran ti mesra"
+      ]
+    },
+    "benefits": {
+      "title": "Utai Ti Deka Nuan Dapati",
+      "items": [
+        "Pengiktirafan profil awam",
+        "Lencana enggau identiti komuniti",
+        "Akses keutamaan ke aktiviti",
+        "Peluang rangkaian",
+        "Laluan ke peranan mentor atau penganjur"
+      ]
+    },
+    "cta": {
+      "title": "Sedia Mimpin?",
+      "description": "Mohon jadi wakil Sarawak.Dev enggau nulong ngempa komuniti.",
+      "button": "Mohon Jako Wakil"
+    }
+  },
+  "partners": {
+    "hero": {
+      "badge": "Rakan & Komuniti",
+      "title": "Bekereja Enggau Kitai",
+      "subtitle": "Sarawak.Dev enda bekereja tanding enggau komuniti bukai. Kitai ngempa rangkaian kolaboratif."
+    },
+    "principles": {
+      "title": "Prinsip Kerjasama",
+      "items": [
+        "Hormati identiti enggau kebebasan rakan",
+        "Benarkan co-branding enggau keterlihatan besama",
+        "Galakkan acara enggau sesi besama",
+        "Ngempa jambatan antara komuniti",
+        "Ngempa peluang penyertaan menang-menang"
+      ]
+    },
+    "formats": {
+      "title": "Kemaya Kitai Bekereja",
+      "items": [
+        { "title": "Vibe Coding Besama", "description": "Jalankan sesi pengenalan Vibe Coding besama komuniti nuan." },
+        { "title": "Bengkel Besama", "description": "Bekereja dalam bengkel murid atau komuniti." },
+        { "title": "Jemputan Silang Komuniti", "description": "Tukar ahli enggau besarkan rangkaian masing-masing." },
+        { "title": "Tukar Wakil", "description": "Bekongsi wakil bagi ngemanah kerjasama." },
+        { "title": "Kerjasama Paparan", "description": "Papar projek enggau sorotan komuniti rakan." },
+        { "title": "Sorotan Komuniti", "description": "Nunjuk komuniti nuan ke audiens Sarawak.Dev." }
+      ]
+    },
+    "offer": {
+      "title": "Utai Ti Sarawak.Dev Tawarkan Rakan",
+      "items": [
+        "Peluang ko-penganjuran enggau keterlihatan besama",
+        "Platform bekereja tanpa kehilangan identiti",
+        "Penemuan bakat enggau penglibatan komuniti",
+        "Akses ke sumber enggau program Vibe Coding",
+        "Promosi besama enggau jangkauan audiens besama"
+      ]
+    },
+    "cta": {
+      "title": "Jari Kitai Ngempa Besama",
+      "description": "Hubungi kitai bagi menerokak kemaya komuniti atau organisasi nuan deka bekereja enggau Sarawak.Dev.",
+      "button": "Hubungi Kitai"
+    }
+  },
+  "showcase": {
+    "hero": {
+      "badge": "Paparan",
+      "title": "Ngempa Komuniti",
+      "subtitle": "Keligi utai ti sedang dibina, dipelajari, enggau dikongsi orang Sarawak.Dev."
+    },
+    "featured": {
+      "title": "Projek Unggulan",
+      "empty": "Projek ari kohort Vibe Coding pertama kitai deka munculkan ditu. Jadilah ti pertama ngempa!"
+    },
+    "highlights": {
+      "title": "Sorotan Komuniti",
+      "empty": "Sorotan komuniti enggau cerita acara deka munculkan ditu enda lama lagi."
+    },
+    "cta": {
+      "title": "Bekongsi Ngempa Nuan",
+      "description": "Siap Vibe Coding enggau bekongsi projek nuan enggau komuniti.",
+      "button": "Beserumah Vibe Coding"
+    }
+  },
+  "join": {
+    "hero": {
+      "badge": "Mulai",
+      "title": "Beserumah Sarawak.Dev",
+      "subtitle": "Pilih jalan nuan enggau jadi sebahagian ari komuniti pembangun Sarawak."
+    },
+    "options": [
+      { "title": "Beserumah Komuniti", "description": "Berhubung enggau komuniti Sarawak.Dev di saluran kitai enggau mula berjejaring enggau pembangun.", "cta": "Beserumah Komuniti", "type": "primary" },
+      { "title": "Daftar bagi Vibe Coding", "description": "Daftar bagi kohort Vibe Coding seterusnya enggau ngempa projek pertama nuan enggau nulong AI.", "cta": "Daftar Kin", "type": "featured" },
+      { "title": "Mohon Jako Wakil", "description": "Jadilah wakil Sarawak.Dev enggau nulong menyebar misi di kampus atau komuniti nuan.", "cta": "Mohon Kin", "type": "secondary" },
+      { "title": "Rakan Enggau Kitai", "description": "Bekereja enggau Sarawak.Dev jako badan murid, komuniti teknologi, atau organisasi.", "cta": "Hubungi Kitai", "type": "secondary" }
+    ]
+  },
+  "footer": {
+    "tagline": "Ngempa masa depan digital Sarawak, besama-sama.",
+    "platform": "Platform",
+    "community": "Komuniti",
+    "connect": "Hubungi",
+    "copyright": "© 2026 Sarawak.Dev. Dikuasai komuniti."
+  },
+  "common": {
+    "learnMore": "Nemu Lebih Jauh",
+    "joinNow": "Beserumah Kin",
+    "applyNow": "Mohon Kin",
+    "getInTouch": "Hubungi Kitai",
+    "registerNow": "Daftar Kin",
+    "backHome": "Balik ke Laman Pengawa",
+    "language": "Bahasa",
+    "theme": "Tema",
+    "lightMode": "Terang",
+    "darkMode": "Gelap"
+  }
+}

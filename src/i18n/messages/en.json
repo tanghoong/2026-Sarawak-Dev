@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "vibeCoding": "Vibe Coding",
+    "ambassadors": "Ambassadors",
+    "partners": "Partners",
+    "showcase": "Showcase",
+    "join": "Join"
+  },
+  "home": {
+    "hero": {
+      "badge": "Community Builder Platform",
+      "title": "Build. Learn.\nGrow Together.",
+      "subtitle": "Sarawak.Dev is a community-driven platform helping people in Sarawak and beyond discover the joy of building with technology, AI, and creative coding.",
+      "cta": "Join the Community",
+      "ctaSecondary": "Explore Vibe Coding"
+    },
+    "mission": {
+      "title": "Why Sarawak.Dev?",
+      "description": "We lower the barrier for people to enter technology, AI-assisted creation, and digital building by providing a clear starting point, a supportive learning community, and a visible pathway from learner to builder.",
+      "points": ["Clear starting point", "Supportive community", "Real project outcomes", "Local ecosystem"]
+    },
+    "vibeCoding": {
+      "badge": "Featured Program",
+      "title": "Vibe Coding",
+      "description": "Your first step into building with AI. Vibe Coding is an entry-level program designed to help beginners quickly experience the joy of building something real.",
+      "cta": "Learn More",
+      "features": ["AI-assisted building", "Real project output", "Community support", "No prior experience needed"]
+    },
+    "howToJoin": {
+      "title": "How to Join",
+      "steps": [
+        { "number": "01", "title": "Discover", "description": "Learn about Sarawak.Dev and find your place in the community." },
+        { "number": "02", "title": "Join", "description": "Sign up and connect with our community channels." },
+        { "number": "03", "title": "Build", "description": "Enter Vibe Coding and create your first real project." }
+      ]
+    },
+    "cohort": {
+      "badge": "Next Cohort",
+      "title": "Vibe Coding — First Batch",
+      "description": "Join our first Vibe Coding cohort and build your first project with AI assistance.",
+      "cta": "Register Now"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "About Us",
+      "title": "Building a Sarawak Builder Community",
+      "subtitle": "Sarawak.Dev exists to lower barriers and create pathways for everyone to participate in digital creation."
+    },
+    "vision": {
+      "title": "Vision",
+      "description": "To become the leading builder community platform for Sarawak by enabling students, beginners, professionals, and local communities to learn modern digital skills, create real projects, and grow through collaboration."
+    },
+    "mission": {
+      "title": "Mission",
+      "description": "Sarawak.Dev exists to lower the barrier for people to enter technology, AI-assisted creation, and digital building by providing a clear starting point, a supportive learning community, visible project outcomes, a pathway from learner to builder, and a local ecosystem that encourages contribution, collaboration, and long-term growth."
+    },
+    "whyMatters": {
+      "title": "Why Sarawak.Dev Matters",
+      "problems": [
+        "Many people don't know where to start with coding or tech",
+        "Coding often feels too difficult or too technical",
+        "There's a lack of local communities that feel relevant and welcoming",
+        "Most people consume content but never build real projects",
+        "Existing communities can feel fragmented or disconnected from local culture"
+      ]
+    },
+    "whoFor": {
+      "title": "Who It's For",
+      "groups": [
+        { "title": "Students", "description": "University and college students looking for skills, portfolio work, and community." },
+        { "title": "Beginners", "description": "New to coding or AI tools and needing a simple, motivating first step." },
+        { "title": "Career Switchers", "description": "Interested in entering digital work and wanting practical exposure." },
+        { "title": "Builders", "description": "Developers, designers, and creators looking for collaboration and local impact." }
+      ]
+    }
+  },
+  "vibeCoding": {
+    "hero": {
+      "badge": "Flagship Program",
+      "title": "Vibe Coding",
+      "subtitle": "Your builder entry experience. Not just learning to code — learning to build, create, and share something real."
+    },
+    "whatIs": {
+      "title": "What is Vibe Coding?",
+      "description": "Vibe Coding is the first experience every new Sarawak.Dev member should join. It is designed to make technology feel approachable, creative, and empowering. It is not a deep technical course — it is a builder entry experience."
+    },
+    "outcomes": {
+      "title": "What You'll Achieve",
+      "items": [
+        "Understand the basics of AI-assisted building",
+        "Create a small but working digital project",
+        "Describe and present what you built",
+        "Share your work with the community",
+        "Feel motivated to keep building"
+      ]
+    },
+    "modules": {
+      "title": "Program Modules",
+      "items": [
+        { "number": "01", "title": "Introduction", "description": "What is Vibe Coding, what is AI-assisted creation, and why building matters more than just consuming." },
+        { "number": "02", "title": "First Build", "description": "Choose a simple project, use prompts or templates to generate a starting point, and preview your output." },
+        { "number": "03", "title": "Improve & Personalize", "description": "Change layout, content, style, or interaction. Learn basic iteration habits." },
+        { "number": "04", "title": "Publish & Share", "description": "Present your project, explain what you built, and share it with the community." }
+      ]
+    },
+    "projects": {
+      "title": "Example Projects You Could Build",
+      "items": [
+        "Personal introduction page",
+        "Mini portfolio page",
+        "Landing page concept",
+        "Simple interactive web toy",
+        "To-do list prototype",
+        "AI-assisted content page"
+      ]
+    },
+    "cta": {
+      "title": "Ready to Start Building?",
+      "description": "Join the next Vibe Coding cohort and experience the joy of building something real.",
+      "button": "Register for Vibe Coding"
+    }
+  },
+  "ambassadors": {
+    "hero": {
+      "badge": "Ambassador Program",
+      "title": "Become an Ambassador",
+      "subtitle": "Help spread Sarawak.Dev and connect your community to a builder ecosystem."
+    },
+    "why": {
+      "title": "Why Ambassadors Matter",
+      "description": "The ambassador system makes Sarawak.Dev easier to spread, localize, and activate across different groups. Ambassadors are distributed promoters and connectors who represent their campus, community, or domain."
+    },
+    "types": {
+      "title": "Ambassador Types",
+      "items": [
+        { "title": "Founding Ambassador", "description": "Early believers who help establish Sarawak.Dev from the ground up." },
+        { "title": "Campus Ambassador", "description": "Represent Sarawak.Dev at your university or college." },
+        { "title": "Partner Community Ambassador", "description": "Bridge your community with Sarawak.Dev's network." },
+        { "title": "Project Ambassador", "description": "Champion specific programs like Vibe Coding." },
+        { "title": "Regional Ambassador", "description": "Represent a specific geographic area or region." }
+      ]
+    },
+    "responsibilities": {
+      "title": "Responsibilities",
+      "items": [
+        "Promote Sarawak.Dev and Vibe Coding",
+        "Invite new members to the community",
+        "Help coordinate a local sharing session or outreach effort",
+        "Collect feedback from your network",
+        "Support a welcoming environment"
+      ]
+    },
+    "benefits": {
+      "title": "What You Gain",
+      "items": [
+        "Public profile recognition",
+        "Community badge and identity",
+        "Priority access to activities",
+        "Networking opportunities",
+        "Pathway to mentor or organizer roles"
+      ]
+    },
+    "cta": {
+      "title": "Ready to Lead?",
+      "description": "Apply to become a Sarawak.Dev ambassador and help build the community.",
+      "button": "Apply as Ambassador"
+    }
+  },
+  "partners": {
+    "hero": {
+      "badge": "Partners & Communities",
+      "title": "Collaborate With Us",
+      "subtitle": "Sarawak.Dev is not competing with other communities. We are building a collaborative network."
+    },
+    "principles": {
+      "title": "Collaboration Principles",
+      "items": [
+        "Respect partner identity and independence",
+        "Allow co-branding and joint visibility",
+        "Encourage shared events and sessions",
+        "Build bridges between communities",
+        "Create win-win participation opportunities"
+      ]
+    },
+    "formats": {
+      "title": "How We Collaborate",
+      "items": [
+        { "title": "Co-hosted Vibe Coding", "description": "Run a Vibe Coding intro session together with your community." },
+        { "title": "Joint Workshops", "description": "Collaborate on student or community workshops." },
+        { "title": "Cross-community Invitations", "description": "Exchange members and grow each other's networks." },
+        { "title": "Ambassador Exchange", "description": "Share representatives to deepen collaboration." },
+        { "title": "Showcase Collaboration", "description": "Feature partner community projects and highlights." },
+        { "title": "Community Spotlights", "description": "Highlight your community to the Sarawak.Dev audience." }
+      ]
+    },
+    "offer": {
+      "title": "What Sarawak.Dev Offers Partners",
+      "items": [
+        "Co-hosting opportunities with shared visibility",
+        "A platform to collaborate without losing your identity",
+        "Talent discovery and community engagement",
+        "Access to Vibe Coding resources and programs",
+        "Joint promotion and shared audience reach"
+      ]
+    },
+    "cta": {
+      "title": "Let's Build Together",
+      "description": "Reach out to explore how your community or organization can collaborate with Sarawak.Dev.",
+      "button": "Get in Touch"
+    }
+  },
+  "showcase": {
+    "hero": {
+      "badge": "Showcase",
+      "title": "Community Builds",
+      "subtitle": "See what members of Sarawak.Dev are building, learning, and sharing."
+    },
+    "featured": {
+      "title": "Featured Projects",
+      "empty": "Projects from our first Vibe Coding cohort will appear here. Be the first to build!"
+    },
+    "highlights": {
+      "title": "Community Highlights",
+      "empty": "Community highlights and event stories will appear here soon."
+    },
+    "cta": {
+      "title": "Share Your Build",
+      "description": "Complete Vibe Coding and share your project with the community.",
+      "button": "Join Vibe Coding"
+    }
+  },
+  "join": {
+    "hero": {
+      "badge": "Get Started",
+      "title": "Join Sarawak.Dev",
+      "subtitle": "Choose your path and become part of the Sarawak builder community."
+    },
+    "options": [
+      { "title": "Join the Community", "description": "Connect with the Sarawak.Dev community on our channels and start networking with builders.", "cta": "Join Community", "type": "primary" },
+      { "title": "Register for Vibe Coding", "description": "Sign up for the next Vibe Coding cohort and build your first project with AI assistance.", "cta": "Register Now", "type": "featured" },
+      { "title": "Apply as Ambassador", "description": "Become a Sarawak.Dev ambassador and help spread the mission in your campus or community.", "cta": "Apply Now", "type": "secondary" },
+      { "title": "Partner With Us", "description": "Collaborate with Sarawak.Dev as a student body, tech community, or organization.", "cta": "Get in Touch", "type": "secondary" }
+    ]
+  },
+  "footer": {
+    "tagline": "Building Sarawak's digital future, together.",
+    "platform": "Platform",
+    "community": "Community",
+    "connect": "Connect",
+    "copyright": "© 2026 Sarawak.Dev. Community-powered."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "joinNow": "Join Now",
+    "applyNow": "Apply Now",
+    "getInTouch": "Get in Touch",
+    "registerNow": "Register Now",
+    "backHome": "Back to Home",
+    "language": "Language",
+    "theme": "Theme",
+    "lightMode": "Light",
+    "darkMode": "Dark"
+  }
+}
