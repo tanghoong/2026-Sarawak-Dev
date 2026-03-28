@@ -2,10 +2,13 @@
 import { useState } from 'react';
 import { useTranslations, useLocale } from 'next-intl';
 import { Link, usePathname, useRouter } from '@/i18n/navigation';
+import { routing } from '@/i18n/routing';
 import { useTheme } from './ThemeProvider';
 import { Sun, Moon, Globe, Menu, X } from 'lucide-react';
 
-const localeNames: Record<string, string> = { en: 'EN', ms: 'BM', iba: 'IBA', zh: '中文' };
+type Locale = (typeof routing.locales)[number];
+
+const localeNames: Record<Locale, string> = { en: 'EN', ms: 'BM', iba: 'IBA', zh: '中文' };
 
 export default function Navigation() {
   const t = useTranslations('nav');
@@ -26,7 +29,7 @@ export default function Navigation() {
     { href: '/join', label: t('join') },
   ];
 
-  const changeLocale = (newLocale: string) => {
+  const changeLocale = (newLocale: Locale) => {
     router.push(pathname, { locale: newLocale });
     setLangOpen(false);
   };
@@ -63,14 +66,20 @@ export default function Navigation() {
           <div style={{ position: 'relative' }}>
             <button onClick={() => setLangOpen(!langOpen)}
               style={{ display: 'flex', alignItems: 'center', gap: '0.25rem', padding: '0.375rem 0.625rem', borderRadius: '0.375rem', background: 'none', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-secondary)', fontSize: '0.8rem', fontWeight: 600 }}
+              aria-haspopup="menu"
+              aria-expanded={langOpen}
+              aria-controls="language-menu"
             >
               <Globe size={14} />
-              {localeNames[locale]}
+              {localeNames[locale as Locale] ?? locale}
             </button>
             {langOpen && (
-              <div style={{ position: 'absolute', right: 0, top: '100%', marginTop: '0.25rem', backgroundColor: 'var(--card-bg)', border: '1px solid var(--border)', borderRadius: '0.5rem', padding: '0.25rem', minWidth: '100px', boxShadow: '0 8px 24px rgba(0,0,0,0.12)', zIndex: 100 }}>
-                {Object.entries(localeNames).map(([loc, name]) => (
-                  <button key={loc} onClick={() => changeLocale(loc)}
+              <div
+                id="language-menu"
+                role="menu"
+                style={{ position: 'absolute', right: 0, top: '100%', marginTop: '0.25rem', backgroundColor: 'var(--card-bg)', border: '1px solid var(--border)', borderRadius: '0.5rem', padding: '0.25rem', minWidth: '100px', boxShadow: '0 8px 24px rgba(0,0,0,0.12)', zIndex: 100 }}>
+                {(Object.entries(localeNames) as [Locale, string][]).map(([loc, name]) => (
+                  <button key={loc} onClick={() => changeLocale(loc)} role="menuitem"
                     style={{ display: 'block', width: '100%', padding: '0.5rem 0.75rem', textAlign: 'left', background: loc === locale ? 'rgba(201,168,76,0.1)' : 'none', border: 'none', cursor: 'pointer', color: loc === locale ? 'var(--accent)' : 'var(--text-primary)', fontSize: '0.875rem', borderRadius: '0.25rem', fontWeight: loc === locale ? 600 : 400 }}
                   >
                     {name}
